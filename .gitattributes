@@ -1,0 +1,2 @@
+# Keep the published file byte-identical to the verified local build.
+index.html -text
